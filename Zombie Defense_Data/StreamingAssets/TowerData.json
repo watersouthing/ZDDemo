@@ -1,0 +1,11 @@
+[
+{"id":1,"name":"炮塔1","money":10,"atk":6,"atkRange":4,"offsetTime":1.5,"nextLev":2,"imgRes":"TowerImg/Tower1_1","res":"Tower/Tower1_1","atkType":1,"eff":"Effects/Fire1"},
+{"id":2,"name":"炮塔2","money":20,"atk":12,"atkRange":4,"offsetTime":1.5,"nextLev":3,"imgRes":"TowerImg/Tower1_2","res":"Tower/Tower1_2","atkType":1,"eff":"Effects/Fire1"},
+{"id":3,"name":"炮塔3","money":30,"atk":18,"atkRange":4,"offsetTime":1.5,"nextLev":0,"imgRes":"TowerImg/Tower1_3","res":"Tower/Tower1_3","atkType":1,"eff":"Effects/Fire1"},
+{"id":4,"name":"机枪塔1","money":10,"atk":2,"atkRange":4,"offsetTime":0.6,"nextLev":5,"imgRes":"TowerImg/Tower2_1","res":"Tower/Tower2_1","atkType":1,"eff":"Effects/Fire1"},
+{"id":5,"name":"机枪塔2","money":20,"atk":4,"atkRange":4,"offsetTime":0.6,"nextLev":6,"imgRes":"TowerImg/Tower2_2","res":"Tower/Tower2_2","atkType":1,"eff":"Effects/Fire1"},
+{"id":6,"name":"机枪塔3","money":30,"atk":6,"atkRange":4,"offsetTime":0.6,"nextLev":0,"imgRes":"TowerImg/Tower2_3","res":"Tower/Tower2_3","atkType":1,"eff":"Effects/Fire1"},
+{"id":7,"name":"水晶塔1","money":10,"atk":2,"atkRange":4,"offsetTime":0.8,"nextLev":8,"imgRes":"TowerImg/Tower3_1","res":"Tower/Tower3_1","atkType":2,"eff":"Effects/Fire2"},
+{"id":8,"name":"水晶塔2","money":20,"atk":4,"atkRange":4,"offsetTime":0.8,"nextLev":9,"imgRes":"TowerImg/Tower3_2","res":"Tower/Tower3_2","atkType":2,"eff":"Effects/Fire2"},
+{"id":9,"name":"水晶塔3","money":30,"atk":6,"atkRange":4,"offsetTime":0.8,"nextLev":0,"imgRes":"TowerImg/Tower3_3","res":"Tower/Tower3_3","atkType":2,"eff":"Effects/Fire2"}
+]

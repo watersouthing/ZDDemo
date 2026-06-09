@@ -1,0 +1,83 @@
+[
+  {
+    "id": 0,
+    "monster_id": "Monster/Z1",
+    "animator_id": "Animations/Monster/Zombie1",
+    "atk": 5,
+    "speed": 50,
+    "hp": 20,
+    "atkOffset": 1
+  },
+  {
+    "id": 1,
+    "monster_id": "Monster/Z1",
+    "animator_id": "Animations/Monster/Zombie2",
+    "atk": 5,
+    "speed": 50,
+    "hp": 20,
+    "atkOffset": 1
+  },
+  {
+    "id": 2,
+    "monster_id": "Monster/Z1",
+    "animator_id": "Animations/Monster/Zombie3",
+    "atk": 5,
+    "speed": 50,
+    "hp": 20,
+    "atkOffset": 1
+  },
+  {
+    "id": 3,
+    "monster_id": "Monster/Z2",
+    "animator_id": "Animations/Monster/Zombie1",
+    "atk": 6,
+    "speed": 45,
+    "hp": 25,
+    "atkOffset": 0.8
+  },
+  {
+    "id": 4,
+    "monster_id": "Monster/Z2",
+    "animator_id": "Animations/Monster/Zombie2",
+    "atk": 6,
+    "speed": 45,
+    "hp": 25,
+    "atkOffset": 0.8
+  },
+  {
+    "id": 5,
+    "monster_id": "Monster/Z2",
+    "animator_id": "Animations/Monster/Zombie3",
+    "atk": 6,
+    "speed": 45,
+    "hp": 25,
+    "atkOffset": 0.8
+  },
+  {
+    "id": 6,
+    "monster_id": "Monster/Z3",
+    "animator_id": "Animations/Monster/Zombie1",
+    "atk": 4,
+    "speed": 40,
+    "hp": 15,
+    "atkOffset": 1.2
+  },
+  {
+    "id": 7,
+    "monster_id": "Monster/Z3",
+    "animator_id": "Animations/Monster/Zombie2",
+    "atk": 4,
+    "speed": 40,
+    "hp": 15,
+    "atkOffset": 1.2
+  },
+  {
+    "id": 8,
+    "monster_id": "Monster/Z3",
+    "animator_id": "Animations/Monster/Zombie3",
+    "atk": 4,
+    "speed": 40,
+    "hp": 15,
+    "atkOffset": 1.2
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 0,
+    "resource": "Role/Role_medic_knife",
+    "atk": 5,
+    "name": "医生（刀）",
+    "price": 0,
+    "atkType": 1,
+    "atkEffect": "Effects/1"
+  },
+  {
+    "id": 1,
+    "resource": "Role/Role_officer_handgun",
+    "atk": 7,
+    "name": "军官（手枪）",
+    "price": 100,
+    "atkType": 2,
+    "atkEffect": "Effects/2"
+  },
+  {
+    "id": 2,
+    "resource": "Role/Role_infantry_assault rifle",
+    "atk": 9,
+    "name": "士兵（步枪）",
+    "price": 200,
+    "atkType": 2,
+    "atkEffect": "Effects/2"
+  }
+]
